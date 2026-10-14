@@ -1,0 +1,4 @@
+*.arff
+*.dat
+.ipynb_checkpoints/
+PythonCheatSheet.ipynb
